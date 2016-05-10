@@ -1,0 +1,23 @@
+
+CSV:
+stationid;unixtime;year;month;day;hour;minute;windspeed;gust1h;winddir;tx1h;tn1h;tl;t5cm;geo700;geo850;qfe;glob1h;sun1h;rr1h;rh;td;
+
+                    Unixtime ist einfach ein Unix-Timestamp von der Beobachtungszeit
+                    year (YYYY)
+                    month (MM)
+                    day (DD)
+                    hour (HH)
+                    minute (MM)
+F  [m/s]            windspeed: Windgeschwindigkeit in Knoten
+FG [m/s]            gusts1h: Maxböen der Stunde in Knoten
+--                  tx1h: 1-stündiges Temperaturminimum
+--                  tn1h: 1-stündiges Temperaturmaximum
+T                   tl: Lufttemperatur in °C
+--                  geo700: Geopotential der 700hPa Hauptdruckfläche (nur bei Bergstationen)
+--                  geo850: Geopotential der 850hPa Hauptdruckfläche (nur bei Bergstationen)
+P                   qfe: Luftdruck auf Stationshöhe
+--                  glob1h: Globalstrahlung während der letzten Stunde in Kilojoule pro Quadratmeter
+--                  sun1h: Sonnenscheindauer während der letzten Stunde in Minuten
+--                  rr1h: Niederschlag in der letzten Stunde in mm
+RH                  rh: relative Luftfeuchte
+TD                  td: Taupunkt (°C)
