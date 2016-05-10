@@ -10,6 +10,7 @@ stationid;unixtime;year;month;day;hour;minute;windspeed;gust1h;winddir;tx1h;tn1h
                     minute (MM)
 F  [m/s]            windspeed: Windgeschwindigkeit in Knoten
 FG [m/s]            gusts1h: Maxböen der Stunde in Knoten
+D                   winddir:
 --                  tx1h: 1-stündiges Temperaturminimum
 --                  tn1h: 1-stündiges Temperaturmaximum
 T                   tl: Lufttemperatur in °C

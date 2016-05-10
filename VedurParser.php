@@ -15,7 +15,7 @@ class VedurParser
 
     private $headers = array();
 
-    function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;T;P;RH;TD&ids=",
+    function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;D;T;P;SND;RH;TD&ids=",
                          $output_file = "vedur.csv")
     {
         $this->base_url = $base_url;
@@ -30,12 +30,33 @@ class VedurParser
     }
 
     public function write_csv($obs) {
+        $time = \DateTime::createFromFormat( 'Y-m-d H:i:s', $obs->time);
+
         $content = array(
           $this->headers, array(
-                $obs['id'], null, null, )
+                $obs['id'],
+                // Observation date and time:
+                $time->format('U'), $time->format('Y'), $time->format('m'), $time->format('d'),
+                $time->format('H'), $time->format('i'), $time->format('s'),
+                // Wind:
+                $this->to_knots($obs->F), $this->to_knots($obs->FG), $obs->D,
+                // Temperature
+                null, null, $obs->T, null,
+                // Pressure
+                null, null, $obs->P,
+                // Radiation
+                null, null,
+                // Precipitation
+                null, // -> Maybe $obs->SND, they only have values for snow height?
+                // Humidity
+                $obs->RH, $obs->TD
+            )
         );
-        $fp = fopen('file.csv', 'w');
 
+        $fp = fopen($this->output_file, 'w');
+        foreach ($content as $line) {
+            fputcsv($fp, $line, $delimiter = ';');
+        }
         fclose($fp);
     }
 
