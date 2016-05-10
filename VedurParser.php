@@ -13,11 +13,15 @@ class VedurParser
 {
     private $current_station_id = 40011;
 
+    private $headers = array();
+
     function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;T;P;RH;TD&ids=",
                          $output_file = "vedur.csv")
     {
         $this->base_url = $base_url;
         $this->output_file = $output_file;
+
+        $this->headers = explode(";", "stationid;unixtime;year;month;day;hour;minute;windspeed;gust1h;winddir;tx1h;tn1h;tl;t5cm;geo700;geo850;qfe;glob1h;sun1h;rr1h;rh;td;");
     }
 
     public function get_observations($station_id) {
@@ -25,11 +29,14 @@ class VedurParser
         return $obs->station[0];
     }
 
-    public function get_forecasts($station_id) {
+    public function write_csv($obs) {
+        $content = array(
+          $this->headers, array(
+                $obs['id'], null, null, )
+        );
+        $fp = fopen('file.csv', 'w');
 
-    }
-
-    public function write_csv($station_id) {
+        fclose($fp);
     }
 
     /**
@@ -55,4 +62,3 @@ class VedurParser
         return $m_per_sec * 0.514;
     }
 }
-
