@@ -1,6 +1,6 @@
 # Vedur
 
-Parses Weather Observation Data From Icelandic Meteorological Office (IMO) 
+Parses Weather Observation Data From Icelandic Meteorological Office (IMO) and writes them to a CSV file.
 
 ## Requirements
 

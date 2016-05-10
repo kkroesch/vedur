@@ -80,6 +80,6 @@ class VedurParser
      * @return float Speed in knots
      */
     public function to_knots($m_per_sec) {
-        return $m_per_sec * 0.514;
+        return round($m_per_sec / 0.514444444444, 1);
     }
 }
