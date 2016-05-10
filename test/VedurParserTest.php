@@ -20,4 +20,8 @@ class VedurParserTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals(1.9, $this->parser->to_knots(1));
         $this->assertEquals(7.8, $this->parser->to_knots(4));
     }
+
+    public function testHash() {
+        $this->assertEquals(3725084672, $this->parser->hash_djb2('4422;1462892400'));
+    }
 }

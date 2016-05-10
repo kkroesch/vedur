@@ -21,19 +21,21 @@ class VedurParser
 
         $headers = explode(";", "stationid;unixtime;year;month;day;hour;minute;windspeed;gust1h;winddir;tx1h;tn1h;tl;t5cm;geo700;geo850;qfe;glob1h;sun1h;rr1h;rh;td;");
 
-        if (! file_exists($this->output_file)) {
+        if (!file_exists($this->output_file)) {
             $fp = fopen($this->output_file, 'w');
             fputcsv($fp, $headers);
             fclose($fp);
         }
     }
 
-    public function get_observations($station_id) {
+    public function get_observations($station_id)
+    {
         $obs = simplexml_load_file($this->base_url . $station_id);
         return $obs->station[0];
     }
 
-    public function write_csv($internal_id, $obs) {
+    public function write_csv($internal_id, $obs)
+    {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
 
         $content = array(
@@ -65,7 +67,8 @@ class VedurParser
      *
      * @return int
      */
-    public function next_station_id() {
+    public function next_station_id()
+    {
         $this->current_station_id += 1;
         if ($this->current_station_id % 10 == 0)
             $this->current_station_id += 1;
@@ -74,12 +77,29 @@ class VedurParser
     }
 
     /**
+     * Calculate hash for data deduplication.
+     *
+     * @param $str
+     * @return int
+     */
+    public function hash_djb2($str)
+    {
+        $hash = 5381;
+        $length = strlen($str);
+        for ($i = 0; $i < $length; $i++) {
+            $hash = (($hash << 5) + $hash) + $str[$i];
+        }
+        return ($hash & 0xFFFFFFFF);
+    }
+
+    /**
      * Calculate speed from m/s to knots.
      *
-     * @param $m_per_sec
+     * @param $m_per_sec float Speed in SI units
      * @return float Speed in knots
      */
-    public function to_knots($m_per_sec) {
+    public function to_knots($m_per_sec)
+    {
         return round($m_per_sec / 0.514444444444, 1);
     }
 }
