@@ -13,15 +13,19 @@ class VedurParser
 {
     private $current_station_id = 40011;
 
-    private $headers = array();
-
     function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;D;T;P;SND;RH;TD&ids=",
                          $output_file = "vedur.csv")
     {
         $this->base_url = $base_url;
         $this->output_file = $output_file;
 
-        $this->headers = explode(";", "stationid;unixtime;year;month;day;hour;minute;windspeed;gust1h;winddir;tx1h;tn1h;tl;t5cm;geo700;geo850;qfe;glob1h;sun1h;rr1h;rh;td;");
+        $headers = explode(";", "stationid;unixtime;year;month;day;hour;minute;windspeed;gust1h;winddir;tx1h;tn1h;tl;t5cm;geo700;geo850;qfe;glob1h;sun1h;rr1h;rh;td;");
+
+        if (! file_exists($this->output_file)) {
+            $fp = fopen($this->output_file, 'w');
+            fputcsv($fp, $headers);
+            fclose($fp);
+        }
     }
 
     public function get_observations($station_id) {
@@ -29,35 +33,30 @@ class VedurParser
         return $obs->station[0];
     }
 
-    public function write_csv($internal_id, $obs, $create_file = false) {
-        $time = \DateTime::createFromFormat( 'Y-m-d H:i:s', $obs->time);
+    public function write_csv($internal_id, $obs) {
+        $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
 
         $content = array(
-            $create_file ? $this->headers : null,
-            array(
-                $internal_id,
-                // Observation date and time:
-                $time->format('U'), $time->format('Y'), $time->format('m'), $time->format('d'),
-                $time->format('H'), $time->format('i'), $time->format('s'),
-                // Wind:
-                $this->to_knots($obs->F), $this->to_knots($obs->FG), $obs->D,
-                // Temperature
-                null, null, $obs->T, null,
-                // Pressure
-                null, null, $obs->P,
-                // Radiation
-                null, null,
-                // Precipitation
-                null, // -> Maybe $obs->SND, they only have values for snow height?
-                // Humidity
-                $obs->RH, $obs->TD
-            )
+            $internal_id,
+            // Observation date and time:
+            $time->format('U'), $time->format('Y'), $time->format('m'), $time->format('d'),
+            $time->format('H'), $time->format('i'), $time->format('s'),
+            // Wind:
+            $this->to_knots($obs->F), $this->to_knots($obs->FG), $obs->D,
+            // Temperature
+            null, null, $obs->T, null,
+            // Pressure
+            null, null, $obs->P,
+            // Radiation
+            null, null,
+            // Precipitation
+            null, // -> Maybe $obs->SND, they only have values for snow height?
+            // Humidity
+            $obs->RH, $obs->TD
         );
 
         $fp = fopen($this->output_file, 'a');
-        foreach ($content as $line) {
-            fputcsv($fp, $line, $delimiter = ';');
-        }
+        fputcsv($fp, $content, $delimiter = ';');
         fclose($fp);
     }
 
