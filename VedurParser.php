@@ -33,12 +33,24 @@ class VedurParser
         }
     }
 
+    /**
+     * Retrieve the observations for only one station.
+     *
+     * @param $station_id int Station ID as defined by IMO.
+     * @return mixed
+     */
     public function get_observations($station_id)
     {
         $obs = simplexml_load_file($this->base_url . $station_id);
         return $obs->station[0];
     }
 
+    /**
+     * Write observation data in normalized form.
+     *
+     * @param $internal_id
+     * @param $obs
+     */
     public function write_csv($internal_id, $obs)
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
