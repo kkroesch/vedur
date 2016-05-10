@@ -19,9 +19,5 @@ class VedurParserTest extends \PHPUnit_Framework_TestCase
     public function testConverter() {
         $this->assertEquals(1.9, $this->parser->to_knots(1));
         $this->assertEquals(7.8, $this->parser->to_knots(4));
-
     }
-
-
-
 }
