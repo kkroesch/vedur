@@ -29,12 +29,13 @@ class VedurParser
         return $obs->station[0];
     }
 
-    public function write_csv($obs) {
+    public function write_csv($internal_id, $obs, $create_file = false) {
         $time = \DateTime::createFromFormat( 'Y-m-d H:i:s', $obs->time);
 
         $content = array(
-          $this->headers, array(
-                $obs['id'],
+            $create_file ? $this->headers : null,
+            array(
+                $internal_id,
                 // Observation date and time:
                 $time->format('U'), $time->format('Y'), $time->format('m'), $time->format('d'),
                 $time->format('H'), $time->format('i'), $time->format('s'),
@@ -53,7 +54,7 @@ class VedurParser
             )
         );
 
-        $fp = fopen($this->output_file, 'w');
+        $fp = fopen($this->output_file, 'a');
         foreach ($content as $line) {
             fputcsv($fp, $line, $delimiter = ';');
         }
