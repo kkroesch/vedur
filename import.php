@@ -3,7 +3,7 @@
 
 require('VedurParser.php');
 
-$parser = new VedurParser($base_url='test/fixture.xml');
+$parser = new VedurParser();
 
 $fp = fopen('stations.csv', 'r');
 while (($row = fgetcsv($fp, 1000, ';')) !== FALSE) {
