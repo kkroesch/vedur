@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<observations>
+    <station id="1" valid="1">
+        <name>Reykjavík</name>
+        <time>2016-05-10 08:00:00</time>
+        <err></err>
+        <link><![CDATA[http://en.vedur.is/weather/observations/areas/reykjavik/#group=100&station=1]]></link>
+        <F>3</F>
+        <FG>5</FG>
+        <T>5.8</T>
+        <P>1033</P>
+        <RH>73</RH>
+        <TD>1.2</TD>
+    </station>
+</observations>
+		
