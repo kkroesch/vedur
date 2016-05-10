@@ -4,14 +4,12 @@
  * Parser for weather data from the Icelandic Meteorological Office (IMO).
  *
  * See http://www.vedur.is/um-vi/vefurinn/xml/
- *
- * User: karsten
  */
-
-
 class VedurParser
 {
     private $current_station_id = 40011;
+
+    private $dataset_hashes = array();
 
     function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;D;T;P;SND;RH;TD&ids=",
                          $output_file = "vedur.csv")
@@ -25,6 +23,13 @@ class VedurParser
             $fp = fopen($this->output_file, 'w');
             fputcsv($fp, $headers);
             fclose($fp);
+        } else {
+            // Read file and fill hash table
+            $fp = fopen($this->output_file, 'r');
+            while (($row = fgetcsv($fp, 1000, ';')) !== FALSE) {
+                $key = $row[0] . ';' . $row[1];
+                array_push($this->dataset_hashes, $this->hash_djb2($key));
+            }
         }
     }
 
@@ -38,6 +43,14 @@ class VedurParser
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
 
+        // Check if dataset already stored.
+        $key = $this->hash_djb2($internal_id . ';' . $time->format('U'));
+        if (in_array($key, $this->dataset_hashes)) {
+            echo "Already stored. Aborting.";
+            return;
+        }
+
+        // Normalize data
         $content = array(
             $internal_id,
             // Observation date and time:
