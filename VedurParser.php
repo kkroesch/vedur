@@ -1,6 +1,8 @@
 <?php namespace ch\kroesch\meteo;
 
-require('lib/InfluxDB/Client.php');
+require __DIR__ . '/vendor/autoload.php';
+use InfluxDB\Database;
+use InfluxDB\Point;
 
 /**
  * Parser for weather data from the Icelandic Meteorological Office (IMO).
@@ -95,22 +97,27 @@ class VedurParser
         fclose($fp);
     }
 
+    /**
+     * Writes the observation data to time series database.
+     *
+     * @param $id int Station ID used internally.
+     * @param $obs mixed Observation data structure.
+     */
     public function write_db($id, $obs)
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
         $points = array(
             new Point(
                 'windspeed',
-                $this->to_knots($obs->F),
-                array('id' => $id, 'origin_id' => $obs->id),
-                $time->format('U')
+                floatval($this->to_knots($obs->F)),
+                array('id' => $id, 'origin_id' => $obs->id), array(),
+                intval($time->format('U'))
             ),
             new Point(
-                'test_metric',
-                0.84,
-                array('host' => 'server01', 'region' => 'us-west'),
-                array('cpucount' => 10),
-                1435255850 // Time precision has to be set to seconds!
+                'tl',
+                floatval($obs->T),
+                array('id' => $id, 'origin_id' => $obs->id), array(),
+                intval($time->format('U'))
             )
         );
 

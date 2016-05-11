@@ -11,5 +11,6 @@ while (($row = fgetcsv($fp, 1000, ';')) !== FALSE) {
     $intern_id = $row[0];
     $obs = $parser->get_observations($vedur_id);
     $parser->write_csv($intern_id, $obs);
+    $parser->write_db($intern_id, $obs);
 }
 fclose($fp);
