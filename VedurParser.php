@@ -1,5 +1,7 @@
 <?php namespace ch\kroesch\meteo;
 
+require('lib/InfluxDB/Client.php');
+
 /**
  * Parser for weather data from the Icelandic Meteorological Office (IMO).
  *
@@ -10,6 +12,8 @@ class VedurParser
     private $current_station_id = 40011;
 
     private $dataset_hashes = array();
+
+    private $db_client;
 
     function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;D;T;P;SND;RH;TD&ids=",
                          $output_file = "vedur.csv")
@@ -31,6 +35,9 @@ class VedurParser
                 array_push($this->dataset_hashes, $this->hash_djb2($key));
             }
         }
+
+
+        $this->db_client = new \InfluxDB\Client('localhost');
     }
 
     /**
@@ -85,6 +92,29 @@ class VedurParser
         $fp = fopen($this->output_file, 'a');
         fputcsv($fp, $content, $delimiter = ';');
         fclose($fp);
+    }
+
+    public function write_db($id, $obs)
+    {
+        $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
+        $points = array(
+            new Point(
+                'windspeed',
+                $this->to_knots($obs->F),
+                array('id' => $id, 'origin_id' => $obs->id),
+                $time->format('U')
+            ),
+            new Point(
+                'test_metric',
+                0.84,
+                array('host' => 'server01', 'region' => 'us-west'),
+                array('cpucount' => 10),
+                1435255850 // Time precision has to be set to seconds!
+            )
+        );
+
+        // we are writing unix timestamps, which have a second precision
+        $newPoints = $this->db_client->writePoints($points, Database::PRECISION_SECONDS);
     }
 
     /**
