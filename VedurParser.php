@@ -1,6 +1,7 @@
 <?php namespace ch\kroesch\meteo;
 
 require __DIR__ . '/vendor/autoload.php';
+use InfluxDB\Client;
 use InfluxDB\Database;
 use InfluxDB\Point;
 
@@ -38,8 +39,7 @@ class VedurParser
             }
         }
 
-
-        $db_client = new \InfluxDB\Client('localhost');
+        $db_client = new Client('localhost');
         $this->database = $db_client->selectDB('vedur');
     }
 
