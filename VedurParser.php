@@ -13,7 +13,7 @@ class VedurParser
 
     private $dataset_hashes = array();
 
-    private $db_client;
+    private $database;
 
     function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;D;T;P;SND;RH;TD&ids=",
                          $output_file = "vedur.csv")
@@ -37,7 +37,8 @@ class VedurParser
         }
 
 
-        $this->db_client = new \InfluxDB\Client('localhost');
+        $db_client = new \InfluxDB\Client('localhost');
+        $this->database = $db_client->selectDB('vedur');
     }
 
     /**
@@ -114,7 +115,7 @@ class VedurParser
         );
 
         // we are writing unix timestamps, which have a second precision
-        $newPoints = $this->db_client->writePoints($points, Database::PRECISION_SECONDS);
+        $newPoints = $this->database->writePoints($points, Database::PRECISION_SECONDS);
     }
 
     /**
