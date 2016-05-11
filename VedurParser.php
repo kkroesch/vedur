@@ -106,17 +106,31 @@ class VedurParser
     public function write_db($id, $obs)
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
+        $origin_id = intval($obs->id);
+
         $points = array(
             new Point(
                 'windspeed',
                 floatval($this->to_knots($obs->F)),
-                array('id' => $id, 'origin_id' => $obs->id), array(),
+                array('id' => $id, 'origin_id' => $origin_id), array(),
                 intval($time->format('U'))
             ),
             new Point(
                 'tl',
                 floatval($obs->T),
-                array('id' => $id, 'origin_id' => $obs->id), array(),
+                array('id' => $id, 'origin_id' => $origin_id), array(),
+                intval($time->format('U'))
+            ),
+            new Point(
+                'qfe',
+                floatval($obs->P),
+                array('id' => $id, 'origin_id' => $origin_id), array(),
+                intval($time->format('U'))
+            ),
+            new Point(
+                'td',
+                floatval($obs->TD),
+                array('id' => $id, 'origin_id' => $origin_id), array(),
                 intval($time->format('U'))
             )
         );
