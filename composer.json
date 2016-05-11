@@ -1,0 +1,12 @@
+{
+    "name": "kkroesch/vedur",
+    "description": "Parses Weather Observation Data From Icelandic Meteorological Office (IMO) and writes them to a CSV file.",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Karsten Kroesch",
+            "email": "kkroesch@gmail.com"
+        }
+    ],
+    "require": {}
+}
