@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "influxdb/influxdb-php": "0.1.3"
+        "influxdb/influxdb-php": "0.1.3",
+        "phpunit/phpunit": "^4.8"
     }
 }
