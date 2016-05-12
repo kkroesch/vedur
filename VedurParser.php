@@ -1,8 +1,11 @@
 <?php namespace ch\kroesch\meteo;
 
 require __DIR__ . '/vendor/autoload.php';
+require __DIR__ . '/config.php';
+
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
+
 
 /**
  * Parser for weather data from the Icelandic Meteorological Office (IMO).
