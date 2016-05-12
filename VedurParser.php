@@ -30,6 +30,8 @@ class VedurParser
                 $key = $row[0] . ';' . $row[1];
                 array_push($this->dataset_hashes, $this->hash_djb2($key));
             }
+
+            print_r($this->dataset_hashes);
         }
     }
 
@@ -57,6 +59,7 @@ class VedurParser
 
         // Check if dataset already stored.
         $key = $this->hash_djb2($internal_id . ';' . $time->format('U'));
+        print_r($key);
         if (in_array($key, $this->dataset_hashes)) {
             echo "Already stored. Aborting.";
             return;
