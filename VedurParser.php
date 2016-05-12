@@ -28,15 +28,16 @@ class VedurParser
 
         if (!file_exists($this->output_file)) {
             $fp = fopen($this->output_file, 'w');
-            fputcsv($fp, $headers);
+            fputcsv($fp, $headers, $delimiter=';');
             fclose($fp);
         } else {
             // Read file and fill hash table
             $fp = fopen($this->output_file, 'r');
             while (($row = fgetcsv($fp, 1000, ';')) !== FALSE) {
                 $key = $row[0] . ';' . $row[1];
-                array_push($this->dataset_hashes, $this->hash_djb2($key));
+                array_push($this->dataset_hashes, $key);
             }
+            var_dump($this->dataset_hashes);
         }
 
         $db_client = new Client('localhost');
@@ -69,8 +70,7 @@ class VedurParser
         print "Storing observations from " . $time->format('Y-m-d H:i:s') . "\n";
 
         // Check if dataset already stored.
-        $key = $this->hash_djb2($internal_id . ';' . $time->format('Y-m-d H:i:s'));
-
+        $key = $internal_id . ';' . $time->format('U');
         if (in_array($key, $this->dataset_hashes)) {
             print "Already stored. Aborting.\n";
             return;
