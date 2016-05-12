@@ -4,6 +4,11 @@ require __DIR__ . '/vendor/autoload.php';
 use InfluxDB\Client;
 use InfluxDB\Database;
 use InfluxDB\Point;
+$config = include __DIR__ . '/config.php';
+
+use Monolog\Logger;
+use Monolog\Handler\StreamHandler;
+
 
 /**
  * Parser for weather data from the Icelandic Meteorological Office (IMO).
@@ -17,6 +22,7 @@ class VedurParser
     private $dataset_hashes = array();
 
     private $database;
+    private $logger;
 
     function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;D;T;P;SND;RH;TD&ids=",
                          $output_file = "vedur.csv")
@@ -42,6 +48,9 @@ class VedurParser
         $db_client = new Client('localhost');
         $this->database = $db_client->selectDB('vedur');
         date_default_timezone_set('UTC');
+
+        $this->logger = new Logger('vedur');
+        $this->logger->pushHandler(new StreamHandler('vedur.log', Logger::INFO));
     }
 
     /**
@@ -66,12 +75,12 @@ class VedurParser
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
 
-        print "Storing observations from " . $time->format('Y-m-d H:i:s') . "\n";
+        $this->logger->info("Storing observations from " . $time->format('Y-m-d H:i:s'));
 
         // Check if dataset already stored.
         $key = $internal_id . ';' . $time->format('U');
         if (in_array($key, $this->dataset_hashes)) {
-            print "Already stored. Aborting.\n";
+            $this->logger->warn("Already stored. Aborting.");
             return;
         }
 
