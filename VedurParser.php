@@ -41,6 +41,7 @@ class VedurParser
 
         $db_client = new Client('localhost');
         $this->database = $db_client->selectDB('vedur');
+        date_default_timezone_set('UTC');
     }
 
     /**
