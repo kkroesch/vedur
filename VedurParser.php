@@ -66,10 +66,13 @@ class VedurParser
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
 
+        print "Storing observations from " . $time->format('Y-m-d H:i:s') . "\n";
+
         // Check if dataset already stored.
-        $key = $this->hash_djb2($internal_id . ';' . $time->format('U'));
+        $key = $this->hash_djb2($internal_id . ';' . $time->format('Y-m-d H:i:s'));
+
         if (in_array($key, $this->dataset_hashes)) {
-            echo "Already stored. Aborting.";
+            print "Already stored. Aborting.\n";
             return;
         }
 
@@ -107,7 +110,7 @@ class VedurParser
     public function write_db($id, $obs)
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
-        $origin_id = intval($obs->id);
+        $origin_id = intval($obs['id']);
 
         $points = array(
             new Point(
