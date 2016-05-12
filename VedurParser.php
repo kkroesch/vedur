@@ -21,18 +21,18 @@ class VedurParser
 
         if (!file_exists($this->output_file)) {
             $fp = fopen($this->output_file, 'w');
-            fputcsv($fp, $headers);
+            fputcsv($fp, $headers, $delimiter=';');
             fclose($fp);
         } else {
             // Read file and fill hash table
             $fp = fopen($this->output_file, 'r');
             while (($row = fgetcsv($fp, 1000, ';')) !== FALSE) {
                 $key = $row[0] . ';' . $row[1];
-                array_push($this->dataset_hashes, $this->hash_djb2($key));
+                array_push($this->dataset_hashes, $key);
             }
-
-            print_r($this->dataset_hashes);
         }
+
+        date_default_timezone_set('UTC');
     }
 
     /**
@@ -57,11 +57,12 @@ class VedurParser
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
 
+        print "Storing observations from " . $time->format('Y-m-d H:i:s') . "\n";
+
         // Check if dataset already stored.
-        $key = $this->hash_djb2($internal_id . ';' . $time->format('U'));
-        print_r($key);
+        $key = $internal_id . ';' . $time->format('U');
         if (in_array($key, $this->dataset_hashes)) {
-            echo "Already stored. Aborting.";
+            print "Already stored. Aborting.\n";
             return;
         }
 
