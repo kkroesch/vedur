@@ -30,7 +30,6 @@ class VedurParser
                 $key = $row[0] . ';' . $row[1];
                 array_push($this->dataset_hashes, $key);
             }
-            var_dump($this->dataset_hashes);
         }
 
         date_default_timezone_set('UTC');
@@ -62,7 +61,6 @@ class VedurParser
 
         // Check if dataset already stored.
         $key = $internal_id . ';' . $time->format('U');
-
         if (in_array($key, $this->dataset_hashes)) {
             print "Already stored. Aborting.\n";
             return;
