@@ -37,7 +37,6 @@ class VedurParser
                 $key = $row[0] . ';' . $row[1];
                 array_push($this->dataset_hashes, $key);
             }
-            var_dump($this->dataset_hashes);
         }
 
         $db_client = new Client('localhost');
