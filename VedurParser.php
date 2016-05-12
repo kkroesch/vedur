@@ -31,6 +31,8 @@ class VedurParser
                 array_push($this->dataset_hashes, $this->hash_djb2($key));
             }
         }
+
+        date_default_timezone_set('UTC');
     }
 
     /**
