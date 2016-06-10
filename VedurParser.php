@@ -14,6 +14,25 @@ use Monolog\Handler\StreamHandler;
  */
 class VedurParser
 {
+    private $wind_directions = array(
+        'N'   => 0,
+        'NNE' => 22.5,
+        'NE'  => 45,
+        'ENE' => 67.5,
+        'E'   => 90,
+        'ESE' => 112.5,
+        'SE'  => 135,
+        'SSE' => 157.5,
+        'S'   => 180,
+        'SSW' => 202.5,
+        'SW'  => 225,
+        'WSW' => 247.5,
+        'W'   => 270,
+        'WNW' => 292.5,
+        'NW'  => 315,
+        'NNW' => 337.5
+    );
+
     private $current_station_id = 40011;
 
     private $dataset_hashes = array();
@@ -85,7 +104,7 @@ class VedurParser
             $time->format('U'), $time->format('Y'), $time->format('m'), $time->format('d'),
             $time->format('H'), $time->format('i'), $time->format('s'),
             // Wind:
-            $this->to_knots($obs->F), $this->to_knots($obs->FG), $obs->D,
+            $this->to_knots($obs->F), $this->to_knots($obs->FG), $this->wind_directions[trim($obs->D)],
             // Temperature
             null, null, $obs->T, null,
             // Pressure
