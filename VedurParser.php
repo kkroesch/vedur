@@ -1,5 +1,12 @@
 <?php namespace ch\kroesch\meteo;
 
+require __DIR__ . '/vendor/autoload.php';
+$config = include __DIR__ . '/config.php';
+
+use Monolog\Logger;
+use Monolog\Handler\StreamHandler;
+
+
 /**
  * Parser for weather data from the Icelandic Meteorological Office (IMO).
  *
@@ -7,9 +14,30 @@
  */
 class VedurParser
 {
+    private $wind_directions = array(
+        'N'   => 0,
+        'NNE' => 22.5,
+        'NE'  => 45,
+        'ENE' => 67.5,
+        'E'   => 90,
+        'ESE' => 112.5,
+        'SE'  => 135,
+        'SSE' => 157.5,
+        'S'   => 180,
+        'SSW' => 202.5,
+        'SW'  => 225,
+        'WSW' => 247.5,
+        'W'   => 270,
+        'WNW' => 292.5,
+        'NW'  => 315,
+        'NNW' => 337.5
+    );
+
     private $current_station_id = 40011;
 
     private $dataset_hashes = array();
+
+    private $logger;
 
     function __construct($base_url = "http://xmlweather.vedur.is/?op_w=xml&type=obs&lang=en&view=xml&params=F;FG;D;T;P;SND;RH;TD&ids=",
                          $output_file = "vedur.csv")
@@ -33,6 +61,9 @@ class VedurParser
         }
 
         date_default_timezone_set('UTC');
+
+        $this->logger = new Logger('vedur');
+        $this->logger->pushHandler(new StreamHandler('vedur.log', Logger::INFO));
     }
 
     /**
@@ -57,12 +88,12 @@ class VedurParser
     {
         $time = \DateTime::createFromFormat('Y-m-d H:i:s', $obs->time);
 
-        print "Storing observations from " . $time->format('Y-m-d H:i:s') . "\n";
+        $this->logger->info("Storing observations from " . $time->format('Y-m-d H:i:s'));
 
         // Check if dataset already stored.
         $key = $internal_id . ';' . $time->format('U');
         if (in_array($key, $this->dataset_hashes)) {
-            print "Already stored. Aborting.\n";
+            $this->logger->warn("Already stored. Aborting.");
             return;
         }
 
@@ -73,7 +104,7 @@ class VedurParser
             $time->format('U'), $time->format('Y'), $time->format('m'), $time->format('d'),
             $time->format('H'), $time->format('i'), $time->format('s'),
             // Wind:
-            $this->to_knots($obs->F), $this->to_knots($obs->FG), $obs->D,
+            $this->to_knots($obs->F), $this->to_knots($obs->FG), $this->wind_directions[trim($obs->D)],
             // Temperature
             null, null, $obs->T, null,
             // Pressure

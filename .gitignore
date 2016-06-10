@@ -37,4 +37,7 @@ fabric.properties
 *.phar
 
 vedur.csv
+*.log
+*.lock
 /vendor
+
