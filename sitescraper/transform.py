@@ -41,5 +41,5 @@ with open('../stations.csv', 'w') as csvfile:
         id += 1
         if id % 10 == 0:
             id += 1
-        station['id'] = id
+        station['id'] = str(id).zfill(6)
         writer.writerow(station)
