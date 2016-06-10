@@ -1,0 +1,2893 @@
+
+Nafn: Akrafjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31572
+WMO-númer: 4926
+Skammstöfun: akrfj
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°18.631', 21°57.963' (64,3105, 21,966)
+Hæð yfir sjó: 37.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Akureyri
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 422
+WMO-númer: 4063
+Skammstöfun: ak
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°41.135', 18°06.014' (65,6856, 18,1002)
+Hæð yfir sjó: 23.0 m.y.s.
+Upphaf veðurathuguna: 1881
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Akureyri - Krossanesbraut
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3471
+WMO-númer: 4137
+Skammstöfun: akurk
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°41.767', 18°06.679' (65,6961, 18,1113)
+Hæð yfir sjó: 31.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Arnkatla
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2370
+WMO-númer: -99
+Skammstöfun: arkdh
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°33.171, 21°49.543 (65,5528, 21,8257)
+Hæð yfir sjó: 377.0 m.y.s.
+Upphaf veðurathuguna: 2013
+Eigandi stöðvar: Orkubú Vestfjarða
+
+Nafn: Austurárdalsháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3007
+WMO-númer: 4945
+Skammstöfun: audal
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°07.380', 20°41.767' (65,123, 20,6961)
+Hæð yfir sjó: 383.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Landsnet
+
+Nafn: Árnes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6420
+WMO-númer: 4820
+Skammstöfun: arnes
+Spásvæði: Suðurland(su)
+Staðsetning: 64°02.432', 20°15.125' (64,0405, 20,2521)
+Hæð yfir sjó: 90.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Ásbyrgi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4614
+WMO-númer: 4179
+Skammstöfun: asbrg
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°01.797', 16°28.998' (66,03, 16,4833)
+Hæð yfir sjó: 38.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Ásgarður
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 195
+WMO-númer: 4027
+Skammstöfun: asg
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°13.782', 21°45.256' (65,2297, 21,7543)
+Hæð yfir sjó: 50.0 m.y.s.
+Upphaf veðurathuguna: 1992
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Ásgarður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2175
+WMO-númer: 4133
+Skammstöfun: asgar
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°13.782', 21°45.256' (65,2297, 21,7543)
+Hæð yfir sjó: 50.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Básar á Goðalandi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6237
+WMO-númer: 4954
+Skammstöfun: basar
+Spásvæði: Suðurland(su)
+Staðsetning: 63°40.745', 19°28.883' (63,6791, 19,4814)
+Hæð yfir sjó: 239.0 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Bergstaðir
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 361
+WMO-númer: 4053
+Skammstöfun: brgs
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°42.179', 19°36.782' (65,703, 19,613)
+Hæð yfir sjó: 43.0 m.y.s.
+Upphaf veðurathuguna: 1978
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Biskupsháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34326
+WMO-númer: 4975
+Skammstöfun: biskh
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°33.501', 16°00.680' (65,5583, 16,0113)
+Hæð yfir sjó: 521.0 m.y.s.
+Upphaf veðurathuguna: 2007
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Bíldudalur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2428
+WMO-númer: 4125
+Skammstöfun: bildu
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 65°40.765', 23°36.730' (65,6794, 23,6122)
+Hæð yfir sjó: 16.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Bjargtangar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2304
+WMO-númer: 4101
+Skammstöfun: bjarg
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°30.174', 24°31.870' (65,5029, 24,5312)
+Hæð yfir sjó: 35.0 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Bjarnarey
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4472
+WMO-númer: 4187
+Skammstöfun: bjarn
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°47', 14°19' (65,783, 14,317)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Bjarnarfjarðarháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2480
+WMO-númer: -99
+Skammstöfun: bjafh
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°43.703, 21°34.305 (65,7284, 21,5718)
+Hæð yfir sjó: 238.5 m.y.s.
+Upphaf veðurathuguna: 2013
+Eigandi stöðvar: Orkubú Vestfjarða
+
+Nafn: Bláfeldur
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 167
+WMO-númer: 4010
+Skammstöfun: blfl
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°50.358', 23°18.021' (64,8393, 23,3004)
+Hæð yfir sjó: 13.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Bláfeldur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1936
+WMO-númer: 4110
+Skammstöfun: blafe
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°50.36', 23°18.07' (64,8393, 23,3012)
+Hæð yfir sjó: 13.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Bláfjallaskáli
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1487
+WMO-númer: 4852
+Skammstöfun: blafs
+Spásvæði: Faxaflói(fa)
+Staðsetning: 63°58.986', 21°38.979' (63,9831, 21,6497)
+Hæð yfir sjó: 530.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Bláfjöll
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1486
+WMO-númer: 4138
+Skammstöfun: blafj
+Spásvæði: Faxaflói(fa)
+Staðsetning: 63°58.140', 21°39.966' (63,969, 21,6661)
+Hæð yfir sjó: 530.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Blikdalsá
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31577
+WMO-númer: 4912
+Skammstöfun: blikd
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°15.984', 21°49.973' (64,2664, 21,8329)
+Hæð yfir sjó: 46.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Blönduós
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3317
+WMO-númer: 4145
+Skammstöfun: bldos
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°39.480', 20°17.551' (65,658, 20,2925)
+Hæð yfir sjó: 8.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Blönduós Vegagerðarstöð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33419
+WMO-númer: 4843
+Skammstöfun: blond
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°40.007', 20°14.296' (65,6668, 20,2383)
+Hæð yfir sjó: 40.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Bolungarvík
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 252
+WMO-númer: 4005
+Skammstöfun: bol
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°09.660', 23°15.192' (66,161, 23,2532)
+Hæð yfir sjó: 17.649999618530273 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Bolungarvík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2738
+WMO-númer: 4127
+Skammstöfun: bolun
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°09.661', 23°15.230' (66,161, 23,2538)
+Hæð yfir sjó: 27.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Bolungarvík - Traðargil
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 7736
+WMO-númer: 4927
+Skammstöfun: boltr
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°10.105', 23°16.084' (66,1684, 23,2681)
+Hæð yfir sjó: 500.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Botn í Súgandafirði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32635
+WMO-númer: 4943
+Skammstöfun: botis
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°04.850', 23°22.398' (66,0808, 23,3733)
+Hæð yfir sjó: 270.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Botnsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1689
+WMO-númer: 4814
+Skammstöfun: botns
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°27.177', 21°24.205' (64,4529, 21,4034)
+Hæð yfir sjó: 500.5 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Landsnet
+
+Nafn: Brattabrekka
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31985
+WMO-númer: 4856
+Skammstöfun: bratt
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°52.298', 21°30.927' (64,8716, 21,5154)
+Hæð yfir sjó: 390.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Breiðdalsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35965
+WMO-númer: 4894
+Skammstöfun: brehe
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°54.410', 14°36.202' (64,9068, 14,6034)
+Hæð yfir sjó: 480.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Brú á Jökuldal
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5940
+WMO-númer: 4169
+Skammstöfun: brujd
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°06.514', 15°31.784' (65,1086, 15,5297)
+Hæð yfir sjó: 373.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Brúarjökull B10
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5932
+WMO-númer: 4982
+Skammstöfun: bruar
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°43.680', 16°06.704' (64,728, 16,1117)
+Hæð yfir sjó: 845.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Brúaröræfi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5825
+WMO-númer: 4978
+Skammstöfun: bruor
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°49.686', 16°05.380' (64,8281, 16,0897)
+Hæð yfir sjó: 748.2000122070312 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Brúðardalur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5968
+WMO-númer: 4980
+Skammstöfun: bruda
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°59.743', 14°30.638' (64,9957, 14,5106)
+Hæð yfir sjó: 300.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Landsnet
+
+Nafn: Brúsastaðir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3223
+WMO-númer: 4147
+Skammstöfun: brusa
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°22.702', 20°14.838' (65,3784, 20,2473)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Bræðratunguvegur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36415
+WMO-númer: 4960
+Skammstöfun: brtve
+Spásvæði: Suðurland(su)
+Staðsetning: 64°09.45', 20°22.047' (64,1575, 20,3675)
+Hæð yfir sjó: 66.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Búlandshöfði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31932
+WMO-númer: 4908
+Skammstöfun: bulah
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°56.194', 23°30.201' (64,9366, 23,5033)
+Hæð yfir sjó: 25.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Búrfell
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6430
+WMO-númer: 4154
+Skammstöfun: bfell
+Spásvæði: Suðurland(su)
+Staðsetning: 64°07.010', 19°44.691' (64,1168, 19,7449)
+Hæð yfir sjó: 249.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Dalatangi
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 620
+WMO-númer: 4097
+Skammstöfun: dt
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°16.090', 13°34.556' (65,2682, 13,5759)
+Hæð yfir sjó: 9.0 m.y.s.
+Upphaf veðurathuguna: 1938
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Dalatangi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4193
+WMO-númer: 4197
+Skammstöfun: dalat
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°16.089', 13°34.498' (65,2682, 13,575)
+Hæð yfir sjó: 10.0 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Egilsstaðaflugvöllur
+Tegund: Synop-skeyti búið til úr Metar og sjálfvirkri athugun
+Stöðvanúmer: 571
+WMO-númer: 4089
+Skammstöfun: egflu
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°16.98', 14°24.15' (65,283, 14,4025)
+Hæð yfir sjó: 23.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Eldhraun
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36270
+WMO-númer: 4937
+Skammstöfun: eldhr
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°44.015', 18°11.781' (63,7338, 18,1977)
+Hæð yfir sjó: 90.0 m.y.s.
+Upphaf veðurathuguna: 2014
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Ennisháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32390
+WMO-númer: 4833
+Skammstöfun: ennis
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°34.342', 21°19.740' (65,5724, 21,329)
+Hæð yfir sjó: 260.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Eskifjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5981
+WMO-númer: 4185
+Skammstöfun: eskif
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°04.580', 14°02.217' (65,0763, 14,037)
+Hæð yfir sjó: 2.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Eyjabakkar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5943
+WMO-númer: 4178
+Skammstöfun: eyjab
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°48.905', 15°25.408' (64,8151, 15,4235)
+Hæð yfir sjó: 655.3200073242188 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Eyrarbakki
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 923
+WMO-númer: 4038
+Skammstöfun: eb
+Spásvæði: Suðurland(su)
+Staðsetning: 63°51.888', 21°09.022' (63,8648, 21,1504)
+Hæð yfir sjó: 5.0 m.y.s.
+Upphaf veðurathuguna: 1923
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Eyrarbakki
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1395
+WMO-númer: 4114
+Skammstöfun: eyrar
+Spásvæði: Suðurland(su)
+Staðsetning: 63°52.152', 21°09.611' (63,8692, 21,1602)
+Hæð yfir sjó: 3.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Fagridalur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34073
+WMO-númer: 4887
+Skammstöfun: fagri
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°07.585', 14°19.960' (65,1264, 14,3327)
+Hæð yfir sjó: 350.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Fagurhólsmýri
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5309
+WMO-númer: 4174
+Skammstöfun: fagho
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°52.460', 16°38.186' (63,8743, 16,6364)
+Hæð yfir sjó: 16.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Fáskrúðsfjörður Ljósaland
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5982
+WMO-númer: 4998
+Skammstöfun: faskr
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°56.234', 14°02.442' (64,9372, 14,0407)
+Hæð yfir sjó: 8.0 m.y.s.
+Upphaf veðurathuguna: 2007
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Festarfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31365
+WMO-númer: 4911
+Skammstöfun: festf
+Spásvæði: Faxaflói(fa)
+Staðsetning: 63°51.569', 22°20.615' (63,8595, 22,3436)
+Hæð yfir sjó: 135.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Fíflholt á Mýrum
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1868
+WMO-númer: 4914
+Skammstöfun: fiflh
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°41.659', 22°08.840' (64,6943, 22,1473)
+Hæð yfir sjó: 40.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Fjarðarheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34175
+WMO-númer: 4893
+Skammstöfun: fjahe
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°15.968', 14°15.538' (65,2661, 14,259)
+Hæð yfir sjó: 600.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Flatey á Skjálfanda
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3779
+WMO-númer: 4965
+Skammstöfun: flats
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°09.789', 17°50.447' (66,1631, 17,8408)
+Hæð yfir sjó: 22.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Flateyri
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2631
+WMO-númer: 4113
+Skammstöfun: feyri
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°02.99', 23°30.58' (66,05, 23,51)
+Hæð yfir sjó: 3.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Fljótsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33487
+WMO-númer: 4989
+Skammstöfun: flhei
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°41.821', 17°30.194' (65,697, 17,5032)
+Hæð yfir sjó: 238.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Fontur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4867
+WMO-númer: 4183
+Skammstöfun: fontr
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°22.701', 14°31.955' (66,3783, 14,5326)
+Hæð yfir sjó: 43.0 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Fróðárheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31931
+WMO-númer: 4802
+Skammstöfun: frohe
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°50.872', 23°28.843' (64,8479, 23,4807)
+Hæð yfir sjó: 361.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Gagnheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4275
+WMO-númer: 4193
+Skammstöfun: gagnh
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°13.408', 14°15.533' (65,2235, 14,2589)
+Hæð yfir sjó: 949.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Garðskagaviti
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1453
+WMO-númer: 4116
+Skammstöfun: garsk
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°04.903', 22°41.359' (64,0817, 22,6893)
+Hæð yfir sjó: 4.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Gauksmýri
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33204
+WMO-númer: 4933
+Skammstöfun: gauks
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°20.665', 20°48.239' (65,3444, 20,804)
+Hæð yfir sjó: 120.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Geldinganes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1480
+WMO-númer: 4880
+Skammstöfun: geldn
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°10.067', 21°48.228' (64,1678, 21,8038)
+Hæð yfir sjó: 35.0 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Gemlufallsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32533
+WMO-númer: 4906
+Skammstöfun: gemlu
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 65°56.437', 23°26.184' (65,94, 23,4364)
+Hæð yfir sjó: 250.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Gillastaðamelar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32372
+WMO-númer: 4915
+Skammstöfun: gilla
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°31.663', 22°01.403' (65,5277, 22,0234)
+Hæð yfir sjó: 72.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Gígjukvísl
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36391
+WMO-númer: 4876
+Skammstöfun: gigju
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°56.173', 17°21.016' (63,9362, 17,3503)
+Hæð yfir sjó: 58.0 m.y.s.
+Upphaf veðurathuguna: 2014
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Gjábakki
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31599
+WMO-númer: 4919
+Skammstöfun: gjabk
+Spásvæði: Suðurland(su)
+Staðsetning: 64°14.887', 21°01.382' (64,2481, 21,023)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Gjögurflugvöllur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2692
+WMO-númer: 4131
+Skammstöfun: gjogr
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°59.705', 21°19.822' (65,9951, 21,3304)
+Hæð yfir sjó: 31.0 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Grindavík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1361
+WMO-númer: 4910
+Skammstöfun: grvik
+Spásvæði: Suðurland(su)
+Staðsetning: 63°50.627', 22°25.023' (63,8438, 22,417)
+Hæð yfir sjó: 9.300000190734863 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Grindavíkurvegur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31364
+WMO-númer: 4928
+Skammstöfun: grveg
+Spásvæði: Suðurland(su)
+Staðsetning: 63°52.100', 22°25.412' (63,8683, 22,4235)
+Hæð yfir sjó: 57.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Grímsey
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3976
+WMO-númer: 4165
+Skammstöfun: grimy
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°32.627', 18°01.004' (66,5438, 18,0167)
+Hæð yfir sjó: 19.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Grímsstaðir
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 495
+WMO-númer: 4073
+Skammstöfun: grst
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°38.539', 16°07.249' (65,6423, 16,1208)
+Hæð yfir sjó: 384.0 m.y.s.
+Upphaf veðurathuguna: 1907
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Grímsstaðir á Fjöllum
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4323
+WMO-númer: 4941
+Skammstöfun: grist
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°38.531', 16°07.705' (65,6422, 16,1284)
+Hæð yfir sjó: 390.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Grímstunguheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3122
+WMO-númer: 4969
+Skammstöfun: gritu
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°13.347', 20°03.374' (65,2225, 20,0562)
+Hæð yfir sjó: 509.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Landsnet
+
+Nafn: Grundarfjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1938
+WMO-númer: 4108
+Skammstöfun: grufj
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°55.278', 23°15.076' (64,9213, 23,2513)
+Hæð yfir sjó: 10.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Gufuskálar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1919
+WMO-númer: 4104
+Skammstöfun: gufus
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°54', 23°56' (64,9, 23,933)
+Hæð yfir sjó: 7.0 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Gullfoss
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36519
+WMO-númer: 4842
+Skammstöfun: gullf
+Spásvæði: Suðurland(su)
+Staðsetning: 64°18.460', 20°12.714' (64,3077, 20,2119)
+Hæð yfir sjó: 191.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Gæsafjöll
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3490
+WMO-númer: 4971
+Skammstöfun: gaesa
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°47.240', 17°00.209' (65,7873, 17,0035)
+Hæð yfir sjó: 390.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Landsnet
+
+Nafn: Hafnarfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31674
+WMO-númer: 4832
+Skammstöfun: hfnfj
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°28.528', 21°57.617' (64,4755, 21,9603)
+Hæð yfir sjó: 25.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hafnarmelar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1673
+WMO-númer: 4128
+Skammstöfun: hamel
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°27.884', 21°57.766' (64,4647, 21,9628)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hafursfell
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31958
+WMO-númer: 4909
+Skammstöfun: hafur
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°49.859', 22°31.969' (64,831, 22,5328)
+Hæð yfir sjó: 65.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hallormsstaðaháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5960
+WMO-númer: 4190
+Skammstöfun: hhals
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 65°04.772', 14°40.485' (65,0795, 14,6748)
+Hæð yfir sjó: 573.1099853515625 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Landsnet
+
+Nafn: Hallormsstaður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4060
+WMO-númer: 4189
+Skammstöfun: hallm
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°05.65', 14°44.68' (65,0942, 14,7447)
+Hæð yfir sjó: 60.0 m.y.s.
+Upphaf veðurathuguna: 1992
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hallsteinsdalsvarp
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5970
+WMO-númer: 4981
+Skammstöfun: halls
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°01.090', 14°27.209' (65,0182, 14,4535)
+Hæð yfir sjó: 640.0 m.y.s.
+Upphaf veðurathuguna: 2007
+Eigandi stöðvar: Landsnet
+
+Nafn: Hamarsfjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35769
+WMO-númer: 4992
+Skammstöfun: hamaf
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°39.349', 14°27.163' (64,6558, 14,4527)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Haugur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3103
+WMO-númer: 4143
+Skammstöfun: haugr
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°11.034', 20°47.103' (65,1839, 20,785)
+Hæð yfir sjó: 130.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hauksstaðir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34450
+WMO-númer: 4993
+Skammstöfun: haust
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°39.424', 15°09.911' (65,6571, 15,1652)
+Hæð yfir sjó: 212.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hágöngur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6776
+WMO-númer: 4890
+Skammstöfun: hagon
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°34.270', 18°06.665' (64,5712, 18,1111)
+Hæð yfir sjó: 819.0 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Hálfdán
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32322
+WMO-númer: 4805
+Skammstöfun: halfd
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°38.667', 23°42.635' (65,6444, 23,7106)
+Hæð yfir sjó: 525.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hálsar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34733
+WMO-númer: 4875
+Skammstöfun: halsr
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°15.189', 15°48.968' (66,2532, 15,8161)
+Hæð yfir sjó: 180.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hámundarstaðaháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33563
+WMO-númer: 4963
+Skammstöfun: hamun
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°57.105', 18°27.557' (65,9518, 18,4593)
+Hæð yfir sjó: 103.0 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hella
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6315
+WMO-númer: 4944
+Skammstöfun: hella
+Spásvæði: Suðurland(su)
+Staðsetning: 63°49.541', 20°21.923' (63,8257, 20,3654)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hellisheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31392
+WMO-númer: 4836
+Skammstöfun: hellh
+Spásvæði: Suðurland(su)
+Staðsetning: 64°01.127', 21°20.543' (64,0188, 21,3424)
+Hæð yfir sjó: 360.0 m.y.s.
+Upphaf veðurathuguna: 1992
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hellisskarð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1490
+WMO-númer: 4862
+Skammstöfun: hells
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°02.000', 21°21.992' (64,0333, 21,3665)
+Hæð yfir sjó: 380.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Héðinsfjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33654
+WMO-númer: 4949
+Skammstöfun: hedfj
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°06.134', 18°48.777' (66,1022, 18,813)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hjallaháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32365
+WMO-númer: 4907
+Skammstöfun: hjall
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°33.84', 22°14.765' (65,564, 22,2461)
+Hæð yfir sjó: 305.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hjarðarland
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 931
+WMO-númer: 4042
+Skammstöfun: hjrl
+Spásvæði: Suðurland(su)
+Staðsetning: 64°15.025', 20°19.855' (64,2504, 20,3309)
+Hæð yfir sjó: 89.0 m.y.s.
+Upphaf veðurathuguna: 1990
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hjarðarland
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6515
+WMO-númer: 4942
+Skammstöfun: hjard
+Spásvæði: Suðurland(su)
+Staðsetning: 64°15.038', 20°19.842' (64,2506, 20,3307)
+Hæð yfir sjó: 88.0 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Holtavörðuheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32097
+WMO-númer: 4839
+Skammstöfun: holta
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 64°59.395', 21°03.457' (64,9899, 21,0576)
+Hæð yfir sjó: 370.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hornbjargsviti
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2862
+WMO-númer: 4123
+Skammstöfun: hornb
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°24.639', 22°22.734' (66,4107, 22,3789)
+Hæð yfir sjó: 22.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Hófaskarð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34732
+WMO-númer: 4973
+Skammstöfun: hofas
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°17.906', 15°53.596' (66,2984, 15,8933)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hólar í Dýrafirði
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 234
+WMO-númer: 4007
+Skammstöfun: hold
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 65°52.073', 23°33.848' (65,8679, 23,5641)
+Hæð yfir sjó: 30.0 m.y.s.
+Upphaf veðurathuguna: 1983
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hólasandur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33495
+WMO-númer: 4871
+Skammstöfun: holas
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°44.242', 17°06.340' (65,7374, 17,1057)
+Hæð yfir sjó: 350.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hólmavík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2481
+WMO-númer: 4935
+Skammstöfun: holma
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°41.239', 21°40.878' (65,6873, 21,6813)
+Hæð yfir sjó: 10.0 m.y.s.
+Upphaf veðurathuguna: 2007
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hólmsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1481
+WMO-númer: 4920
+Skammstöfun: holms
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°06.510', 21°41.182' (64,1085, 21,6864)
+Hæð yfir sjó: 130.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hraunsmúli
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31840
+WMO-númer: 4808
+Skammstöfun: hramu
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°49.324', 23°11.361' (64,8221, 23,1894)
+Hæð yfir sjó: 10.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Húsafell
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6802
+WMO-númer: 4150
+Skammstöfun: husaf
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°41.939', 20°52.140' (64,699, 20,869)
+Hæð yfir sjó: 132.8000030517578 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Húsavík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3696
+WMO-númer: 4171
+Skammstöfun: husvk
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°02.509', 17°19.685' (66,0418, 17,3281)
+Hæð yfir sjó: 28.200000762939453 m.y.s.
+Upphaf veðurathuguna: 2002
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hvalnes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35666
+WMO-númer: 4892
+Skammstöfun: hvaln
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°24.445', 14°32.360' (64,4074, 14,5393)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hvammur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36127
+WMO-númer: 4870
+Skammstöfun: hvamm
+Spásvæði: Suðurland(su)
+Staðsetning: 63°34.706', 19°54.097' (63,5784, 19,9016)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Hvanneyri
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1779
+WMO-númer: 4134
+Skammstöfun: hveyr
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°34', 21°46' (64,567, 21,767)
+Hæð yfir sjó: 12.399999618530273 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Hveravellir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6935
+WMO-númer: 4156
+Skammstöfun: hvell
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°52.005', 19°33.733' (64,8668, 19,5622)
+Hæð yfir sjó: 641.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Höfn í Hornafirði
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 705
+WMO-númer: 4082
+Skammstöfun: hofn
+Spásvæði: Suðausturland(sa)
+Staðsetning: 64°15.057', 15°12.802' (64,251, 15,2134)
+Hæð yfir sjó: 4.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Ingólfsfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31399
+WMO-númer: 4924
+Skammstöfun: ingfj
+Spásvæði: Suðurland(su)
+Staðsetning: 63°57.444', 21°03.797' (63,9574, 21,0633)
+Hæð yfir sjó: 51.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Ingólfshöfði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5210
+WMO-númer: 4884
+Skammstöfun: ingol
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°48.170', 16°39.054' (63,8028, 16,6509)
+Hæð yfir sjó: 57.20000076293945 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Innri Sauðá
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5847
+WMO-númer: -99
+Skammstöfun: sauda
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°46.178, 15°15.262 (64,8161, 15,3228)
+Hæð yfir sjó: 750.0 m.y.s.
+Upphaf veðurathuguna: 2014
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Ísafjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2642
+WMO-númer: 4117
+Skammstöfun: isafj
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°03.578', 23°10.196' (66,0596, 23,1699)
+Hæð yfir sjó: 2.200000047683716 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Jökuldalur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34148
+WMO-númer: 4991
+Skammstöfun: jodal
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°18.117', 15°13.424' (65,3019, 15,2237)
+Hæð yfir sjó: 473.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Jökulheimar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6670
+WMO-númer: 4166
+Skammstöfun: jheim
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°19', 18°13' (64,317, 18,217)
+Hæð yfir sjó: 726.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Kaldakinn
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33480
+WMO-númer: -99
+Skammstöfun: kakin
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°44.557, 17°35.520 (65,7426, 17,592)
+Hæð yfir sjó: 120.0 m.y.s.
+Upphaf veðurathuguna: 2013
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Kambanes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5885
+WMO-númer: 4196
+Skammstöfun: kamba
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°48.074', 13°50.538' (64,8012, 13,8423)
+Hæð yfir sjó: 29.799999237060547 m.y.s.
+Upphaf veðurathuguna: 1992
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Kambaskriður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35884
+WMO-númer: 4990
+Skammstöfun: kambs
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°47.889', 13°53.407' (64,7981, 13,8901)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Kálfhóll
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6310
+WMO-númer: 4804
+Skammstöfun: kalfh
+Spásvæði: Suðurland(su)
+Staðsetning: 63°57.767', 20°34.016' (63,9628, 20,5669)
+Hæð yfir sjó: 52.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Kárahnjúkar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5933
+WMO-númer: 4176
+Skammstöfun: karah
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°55.702', 15°46.627' (64,9284, 15,7771)
+Hæð yfir sjó: 639.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Keflavíkurflugvöllur
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 990
+WMO-númer: 4018
+Skammstöfun: kvk
+Spásvæði: Faxaflói(fa)
+Staðsetning: 63°58.481', 22°35.255' (63,9747, 22,5876)
+Hæð yfir sjó: 47.0 m.y.s.
+Upphaf veðurathuguna: 1952
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Keflavíkurflugvöllur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1350
+WMO-númer: 4118
+Skammstöfun: kefla
+Spásvæði: Faxaflói(fa)
+Staðsetning: 63°58.974', 22°36.031' (63,9829, 22,6005)
+Hæð yfir sjó: 50.900001525878906 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Kirkjubæjarklaustur - Stjórnarsandur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6272
+WMO-númer: 4964
+Skammstöfun: klaus
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°47.583', 18°00.717' (63,793, 18,0119)
+Hæð yfir sjó: 22.0 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Kjalarnes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31579
+WMO-númer: 4848
+Skammstöfun: kjaln
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°12.639', 21°46.002' (64,2106, 21,7667)
+Hæð yfir sjó: 10.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Kleifaheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32224
+WMO-númer: 4803
+Skammstöfun: klehe
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°31.030', 23°43.266' (65,5172, 23,7211)
+Hæð yfir sjó: 400.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Klettsháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32355
+WMO-númer: 4823
+Skammstöfun: klett
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°39.298', 22°36.530' (65,655, 22,6088)
+Hæð yfir sjó: 330.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Kolás
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31882
+WMO-númer: 4902
+Skammstöfun: kolas
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°41.734', 21°38.134' (64,6956, 21,6359)
+Hæð yfir sjó: 66.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Kolgrafafjarðarbrú
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31942
+WMO-númer: 4812
+Skammstöfun: kolbr
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°57.987', 23°07.560' (64,9665, 23,126)
+Hæð yfir sjó: 3.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Kolka
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3225
+WMO-númer: 4149
+Skammstöfun: kolka
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 65°14', 19°43' (65,233, 19,717)
+Hæð yfir sjó: 504.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Kollaleira
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5975
+WMO-númer: 4186
+Skammstöfun: kolla
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°02.205', 14°14.381' (65,0368, 14,2397)
+Hæð yfir sjó: 43.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Korpa
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1479
+WMO-númer: 4132
+Skammstöfun: korpa
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°09.032', 21°45.064' (64,1505, 21,7511)
+Hæð yfir sjó: 35.0 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Krafla
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4406
+WMO-númer: 4987
+Skammstöfun: krafl
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°41.670', 16°46.490' (65,6945, 16,7748)
+Hæð yfir sjó: 455.0 m.y.s.
+Upphaf veðurathuguna: 2011
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Kvísker
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5316
+WMO-númer: 4970
+Skammstöfun: ksker
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°58.661', 16°26.193' (63,9777, 16,4366)
+Hæð yfir sjó: 30.0 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Kvísker Vegagerðarstöð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35315
+WMO-númer: 4886
+Skammstöfun: kvisk
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°57.576', 16°25.465' (63,9596, 16,4244)
+Hæð yfir sjó: 30.0 m.y.s.
+Upphaf veðurathuguna: 2002
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Lambavatn
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2315
+WMO-númer: 4809
+Skammstöfun: lamba
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°29.543', 24°05.551' (65,4924, 24,0925)
+Hæð yfir sjó: 4.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Laufbali
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6472
+WMO-númer: 4872
+Skammstöfun: laufb
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°01.412', 18°07.174' (64,0235, 18,1196)
+Hæð yfir sjó: 555.5999755859375 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Laxárdalsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32190
+WMO-númer: 4851
+Skammstöfun: laxhe
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°12.395', 21°19.661' (65,2066, 21,3277)
+Hæð yfir sjó: 200.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Litla-Ávík
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 293
+WMO-númer: 4031
+Skammstöfun: ltav
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°01.280', 21°25.500' (66,0213, 21,425)
+Hæð yfir sjó: 15.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Litla-Skarð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1881
+WMO-númer: 4112
+Skammstöfun: litsk
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°43.608', 21°37.781' (64,7268, 21,6297)
+Hæð yfir sjó: 115.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Lómagnúpur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36386
+WMO-númer: 4874
+Skammstöfun: lomag
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°57.447', 17°33.302' (63,9575, 17,555)
+Hæð yfir sjó: 55.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Lónakvísl
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6459
+WMO-númer: 4180
+Skammstöfun: lonak
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°05.880', 18°36.841' (64,098, 18,614)
+Hæð yfir sjó: 675.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Lyngdalsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36504
+WMO-númer: 4968
+Skammstöfun: lyngh
+Spásvæði: Suðurland(su)
+Staðsetning: 64°12.109', 20°48.372' (64,2018, 20,8062)
+Hæð yfir sjó: 215.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Markarfljót
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36122
+WMO-númer: 4958
+Skammstöfun: marka
+Spásvæði: Suðurland(su)
+Staðsetning: 63°37.294', 20°01.711' (63,6216, 20,0285)
+Hæð yfir sjó: 42.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Mánárbakki
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 479
+WMO-númer: 4071
+Skammstöfun: mnbk
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°11.969', 17°06.191' (66,1995, 17,1032)
+Hæð yfir sjó: 17.0 m.y.s.
+Upphaf veðurathuguna: 1956
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Mánárbakki
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3797
+WMO-númer: 4847
+Skammstöfun: manar
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°11.964', 17°06.165' (66,1994, 17,1028)
+Hæð yfir sjó: 17.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Miðfjarðarnes
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 515
+WMO-númer: 4083
+Skammstöfun: mdfj
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 66°03.957', 15°04.750' (66,0659, 15,0792)
+Hæð yfir sjó: 25.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Miðfjarðarnes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4652
+WMO-númer: 4983
+Skammstöfun: midfj
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 66°04.009', 15°04.796' (66,0668, 15,0799)
+Hæð yfir sjó: 25.0 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Miklidalur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31122
+WMO-númer: 4801
+Skammstöfun: mikli
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°34.842', 23°51.312' (65,5807, 23,8552)
+Hæð yfir sjó: 370.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Mosfellsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31591
+WMO-númer: 4918
+Skammstöfun: moshe
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°12.842', 21°20.686' (64,214, 21,3448)
+Hæð yfir sjó: 270.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Mýrdalssandur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36156
+WMO-númer: 4860
+Skammstöfun: mysan
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°27.969', 18°36.266' (63,4661, 18,6044)
+Hæð yfir sjó: 35.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Mývatn
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4300
+WMO-númer: 4173
+Skammstöfun: myvtn
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°37.177', 16°58.606' (65,6196, 16,9768)
+Hæð yfir sjó: 282.29998779296875 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Mývatnsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33394
+WMO-númer: 4869
+Skammstöfun: myvhe
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°36.855', 17°13.014' (65,6143, 17,2169)
+Hæð yfir sjó: 350.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Mývatnsöræfi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34413
+WMO-númer: 4873
+Skammstöfun: myvor
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°39.454', 16°30.034' (65,6576, 16,5006)
+Hæð yfir sjó: 390.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Möðrudalsöræfi II
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34238
+WMO-númer: 4881
+Skammstöfun: modhe
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°27.419', 15°35.130' (65,457, 15,5855)
+Hæð yfir sjó: 550.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Möðrudalur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4830
+WMO-númer: 4181
+Skammstöfun: modal
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°22.522', 15°53.000' (65,3754, 15,8833)
+Hæð yfir sjó: 450.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Möðruvellir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3463
+WMO-númer: 4167
+Skammstöfun: modru
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°46.239', 18°15.080' (65,7707, 18,2513)
+Hæð yfir sjó: 15.0 m.y.s.
+Upphaf veðurathuguna: 1991
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Mörk á Landi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6424
+WMO-númer: 4948
+Skammstöfun: morla
+Spásvæði: Suðurland(su)
+Staðsetning: 64°01.755', 20°01.136' (64,0293, 20,0189)
+Hæð yfir sjó: 125.0 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Nautabú
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3242
+WMO-númer: 4135
+Skammstöfun: nauta
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°27.495', 19°22.147' (65,4583, 19,3691)
+Hæð yfir sjó: 115.0 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Neskaupstaður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5990
+WMO-númer: 4199
+Skammstöfun: nkaup
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°09.016', 13°40.165' (65,1503, 13,6694)
+Hæð yfir sjó: 49.70000076293945 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Neskaupstaður - Drangagil
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5992
+WMO-númer: 4899
+Skammstöfun: nkaud
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°09.706', 13°41.282' (65,1618, 13,688)
+Hæð yfir sjó: 559.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Oddsskarð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34087
+WMO-númer: 4897
+Skammstöfun: oddsk
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°03.824', 13°55.124' (65,0637, 13,9187)
+Hæð yfir sjó: 520.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Ólafsfjarðarvegur við Sauðanes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33661
+WMO-númer: 4951
+Skammstöfun: olafv
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°02.541', 18°31.245' (66,0424, 18,5208)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Ólafsfjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3658
+WMO-númer: 4155
+Skammstöfun: olfjo
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°04.431', 18°39.935' (66,0739, 18,6656)
+Hæð yfir sjó: 5.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Ólafsfjörður - Tindaöxl
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 7659
+WMO-númer: 4955
+Skammstöfun: olfti
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°03.782', 18°37.854' (66,063, 18,6309)
+Hæð yfir sjó: 450.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Ólafsvík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1924
+WMO-númer: 4106
+Skammstöfun: olvik
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°53.69', 23°42.86' (64,8948, 23,7143)
+Hæð yfir sjó: 15.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Papey
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5777
+WMO-númer: 4194
+Skammstöfun: papey
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°35.469', 14°10.481' (64,5911, 14,1747)
+Hæð yfir sjó: 49.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Patreksfjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2319
+WMO-númer: 4105
+Skammstöfun: patro
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°35.704', 23°58.490' (65,5951, 23,9748)
+Hæð yfir sjó: 43.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Rauðhálsar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3596
+WMO-númer: 4977
+Skammstöfun: raudh
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°51.360', 17°12.092' (65,856, 17,2015)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2015
+Eigandi stöðvar: Landsnet
+
+Nafn: Rauðinúpur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4912
+WMO-númer: 4175
+Skammstöfun: raudi
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°30.492', 16°32.663' (66,5082, 16,5444)
+Hæð yfir sjó: 59.29999923706055 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Raufarhöfn
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4828
+WMO-númer: 4877
+Skammstöfun: raufa
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°27.360', 15°57.162' (66,456, 15,9527)
+Hæð yfir sjó: 4.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Reykhólar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2266
+WMO-númer: 4129
+Skammstöfun: rehol
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°26.259', 22°12.337' (65,4377, 22,2056)
+Hæð yfir sjó: 6.699999809265137 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Reykir í Fnjóskadal
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3380
+WMO-númer: 4867
+Skammstöfun: reykf
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°35.107', 17°46.000' (65,5851, 17,7667)
+Hæð yfir sjó: 220.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Reykir í Hrútafirði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2197
+WMO-númer: 4139
+Skammstöfun: rhrut
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°15.257', 21°05.867' (65,2543, 21,0978)
+Hæð yfir sjó: 15.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Reykjanesbraut
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31363
+WMO-númer: 4822
+Skammstöfun: rbrau
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°00.160', 22°13.774' (64,0027, 22,2296)
+Hæð yfir sjó: 25.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Reykjavík
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 1
+WMO-númer: 4030
+Skammstöfun: rvk
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°07.648', 21°54.166' (64,1275, 21,9028)
+Hæð yfir sjó: 52.0 m.y.s.
+Upphaf veðurathuguna: 1920
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Reykjavík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1475
+WMO-númer: 4130
+Skammstöfun: reitr
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°07.653', 21°54.120' (64,1275, 21,902)
+Hæð yfir sjó: 52.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Reykjavíkurflugvöllur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1477
+WMO-númer: 4838
+Skammstöfun: rflug
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°07.707', 21°56.442' (64,1284, 21,9407)
+Hæð yfir sjó: 12.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Reynisfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36049
+WMO-númer: 4956
+Skammstöfun: reyni
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°27.124', 19°02.265' (63,4521, 19,0378)
+Hæð yfir sjó: 125.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Sandbúðir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6975
+WMO-númer: 4168
+Skammstöfun: sandb
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°56', 17°59' (64,933, 17,983)
+Hæð yfir sjó: 820.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Sandskeið
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31488
+WMO-númer: 4854
+Skammstöfun: sansk
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°03.728', 21°33.556' (64,0621, 21,5593)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Sandvíkurheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34559
+WMO-númer: 4883
+Skammstöfun: sanhe
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°53.482', 14°49.519' (65,8914, 14,8253)
+Hæð yfir sjó: 275.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Sauðanesviti
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 400
+WMO-númer: 4059
+Skammstöfun: sdnv
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°11.112', 18°57.204' (66,1852, 18,9534)
+Hæð yfir sjó: 30.0 m.y.s.
+Upphaf veðurathuguna: 1990
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Sauðárkrókur flugvöllur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3433
+WMO-númer: 4953
+Skammstöfun: skrok
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°43.556', 19°34.421' (65,7259, 19,5737)
+Hæð yfir sjó: 0.5 m.y.s.
+Upphaf veðurathuguna: 2007
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Sámsstaðir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6222
+WMO-númer: 4152
+Skammstöfun: samst
+Spásvæði: Suðurland(su)
+Staðsetning: 63°44.122', 20°06.544' (63,7354, 20,1091)
+Hæð yfir sjó: 90.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Sáta
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3054
+WMO-númer: 4861
+Skammstöfun: satax
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 65°03.767', 18°50.300' (65,0628, 18,8383)
+Hæð yfir sjó: 785.0 m.y.s.
+Upphaf veðurathuguna: 1992
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Seley
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5993
+WMO-númer: 4198
+Skammstöfun: seley
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°59', 13°31' (64,983, 13,517)
+Hæð yfir sjó: 18.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Seljalandsdalur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2640
+WMO-númer: 4107
+Skammstöfun: selja
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°04.557', 23°11.920' (66,076, 23,1987)
+Hæð yfir sjó: 550.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Seljalandsdalur - skíðaskáli
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2641
+WMO-númer: 4819
+Skammstöfun: selsk
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°04.124', 23°12.618' (66,0687, 23,2103)
+Hæð yfir sjó: 283.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Selvogur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31380
+WMO-númer: 4986
+Skammstöfun: selvg
+Spásvæði: Suðurland(su)
+Staðsetning: 63°50.736', 21°41.751' (63,8456, 21,6959)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Setur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6748
+WMO-númer: 4158
+Skammstöfun: setur
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°36.258', 19°01.116' (64,6043, 19,0186)
+Hæð yfir sjó: 693.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Seyðisfjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4182
+WMO-númer: 4195
+Skammstöfun: seydi
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°15.292', 14°00.387' (65,2549, 14,0064)
+Hæð yfir sjó: 37.0 m.y.s.
+Upphaf veðurathuguna: 2014
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Siglufjarðarvegur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33750
+WMO-númer: 4857
+Skammstöfun: siveg
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°07.739', 19°04.328' (66,129, 19,0721)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Siglufjarðarvegur Herkonugil
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33751
+WMO-númer: 4959
+Skammstöfun: siher
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°10.702', 18°58.512' (66,1784, 18,9752)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Siglufjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3752
+WMO-númer: 4157
+Skammstöfun: sifjo
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°08.093', 18°55.140' (66,1349, 18,919)
+Hæð yfir sjó: 6.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Siglufjörður - Hafnarfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 7753
+WMO-númer: 4957
+Skammstöfun: sifhf
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°09.212', 18°56.112' (66,1535, 18,9352)
+Hæð yfir sjó: 550.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Siglunes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3754
+WMO-númer: 4159
+Skammstöfun: sines
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°11.626', 18°50.585' (66,1938, 18,8431)
+Hæð yfir sjó: 8.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Skaftafell
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6499
+WMO-númer: 4172
+Skammstöfun: skaft
+Spásvæði: Suðausturland(sa)
+Staðsetning: 64°00.941', 16°58.000' (64,0157, 16,9667)
+Hæð yfir sjó: 94.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Skagatá
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3720
+WMO-númer: 4151
+Skammstöfun: skagt
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 66°07.153', 20°05.932' (66,1192, 20,0989)
+Hæð yfir sjó: 9.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Skarðsfjöruviti
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6176
+WMO-númer: 4170
+Skammstöfun: skafj
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°31.072', 17°58.711' (63,5179, 17,9785)
+Hæð yfir sjó: 6.0 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Siglingastofnun
+
+Nafn: Skarðsheiði Miðfitjahóll
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1679
+WMO-númer: 4904
+Skammstöfun: skahe
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°29.411', 21°45.728' (64,4902, 21,7621)
+Hæð yfir sjó: 480.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Landsnet
+
+Nafn: Skarðsmýrarfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1496
+WMO-númer: 4922
+Skammstöfun: skamy
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°03.401', 21°20.816' (64,0567, 21,3469)
+Hæð yfir sjó: 597.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Skálafell
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1590
+WMO-númer: 4136
+Skammstöfun: sfell
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°14.429', 21°27.798' (64,2405, 21,4633)
+Hæð yfir sjó: 771.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Skálholt
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36411
+WMO-númer: 4866
+Skammstöfun: skalh
+Spásvæði: Suðurland(su)
+Staðsetning: 64°07.937', 20°31.847' (64,1323, 20,5308)
+Hæð yfir sjó: 60.0 m.y.s.
+Upphaf veðurathuguna: 1998
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Skjaldþingsstaðir
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 527
+WMO-númer: 4085
+Skammstöfun: skjl
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°42.161', 14°49.267' (65,7027, 14,8211)
+Hæð yfir sjó: 42.20000076293945 m.y.s.
+Upphaf veðurathuguna: 1994
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Skjaldþingsstaðir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4455
+WMO-númer: 4985
+Skammstöfun: skjal
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°42.213', 14°49.247' (65,7036, 14,8208)
+Hæð yfir sjó: 44.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Skrauthólar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1578
+WMO-númer: 4818
+Skammstöfun: skrau
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°13.909', 21°48.278' (64,2318, 21,8046)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Sléttunes Jökulfjörðum
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2841
+WMO-númer: 4913
+Skammstöfun: slett
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°17.772', 22°57.845' (66,2962, 22,964)
+Hæð yfir sjó: -99.0 m.y.s.
+Upphaf veðurathuguna: 2013
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Staðarhóll
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3591
+WMO-númer: 4835
+Skammstöfun: sholl
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°49.259', 17°20.675' (65,821, 17,3446)
+Hæð yfir sjó: 40.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Stafá
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33643
+WMO-númer: 4923
+Skammstöfun: stafa
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°04.265', 19°16.707' (66,0711, 19,2785)
+Hæð yfir sjó: 40.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Stafholtsey
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 108
+WMO-númer: 4034
+Skammstöfun: stey
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°38.516', 21°35.445' (64,6419, 21,5907)
+Hæð yfir sjó: 14.0 m.y.s.
+Upphaf veðurathuguna: 1988
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Steinar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36132
+WMO-númer: 4868
+Skammstöfun: stein
+Spásvæði: Suðurland(su)
+Staðsetning: 63°32.575', 19°41.434' (63,5429, 19,6906)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Steingrímsfjarðarheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32474
+WMO-númer: 4829
+Skammstöfun: stehe
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 65°45.019', 22°07.748' (65,7503, 22,1291)
+Hæð yfir sjó: 440.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Stórholt
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31950
+WMO-númer: 4936
+Skammstöfun: sholt
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 64°59.16', 22°48.503' (64,986, 22,8084)
+Hæð yfir sjó: 70.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Stórhöfði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6017
+WMO-númer: 4148
+Skammstöfun: storh
+Spásvæði: Suðurland(su)
+Staðsetning: 63°23.974', 20°17.295' (63,3996, 20,2882)
+Hæð yfir sjó: 118.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Straumsvík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1473
+WMO-númer: 4124
+Skammstöfun: strau
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°02.628', 22°02.427' (64,0438, 22,0404)
+Hæð yfir sjó: 7.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Streiti
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35880
+WMO-númer: 4994
+Skammstöfun: strei
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°43.197', 14°02.177' (64,7199, 14,0363)
+Hæð yfir sjó: 10.0 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Stykkishólmur
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 178
+WMO-númer: 4013
+Skammstöfun: sth
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°04.442', 22°44.033' (65,074, 22,7339)
+Hæð yfir sjó: 13.180000305175781 m.y.s.
+Upphaf veðurathuguna: 1845
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Stykkishólmur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2050
+WMO-númer: 4115
+Skammstöfun: stykk
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°04.302', 22°43.942' (65,0717, 22,7324)
+Hæð yfir sjó: 12.399999618530273 m.y.s.
+Upphaf veðurathuguna: 2002
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Surtsey
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6012
+WMO-númer: 4126
+Skammstöfun: surte
+Spásvæði: Suðurland(su)
+Staðsetning: 63°17.958', 20°35.968' (63,2993, 20,5995)
+Hæð yfir sjó: 36.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Súðavík
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2646
+WMO-númer: 4111
+Skammstöfun: sudav
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°02.556', 22°59.163' (66,0426, 22,986)
+Hæð yfir sjó: 10.899999618530273 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Svartárkot
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3292
+WMO-númer: 4153
+Skammstöfun: svkot
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°20.512', 17°14.589' (65,3419, 17,2432)
+Hæð yfir sjó: 405.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Landsnet
+
+Nafn: Svínadalur í Dölum
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32179
+WMO-númer: 4817
+Skammstöfun: svina
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°18.351', 21°44.377' (65,3058, 21,7396)
+Hæð yfir sjó: 230.0 m.y.s.
+Upphaf veðurathuguna: 2002
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Tálknafjörður
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2323
+WMO-númer: 4905
+Skammstöfun: talkn
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°37.656', 23°49.814' (65,6276, 23,8302)
+Hæð yfir sjó: 8.5 m.y.s.
+Upphaf veðurathuguna: 2008
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Teigarhorn
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5872
+WMO-númer: 4184
+Skammstöfun: teiga
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°40.540', 14°20.663' (64,6757, 14,3444)
+Hæð yfir sjó: 20.700000762939453 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Tindfjöll
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6235
+WMO-númer: 4952
+Skammstöfun: tindf
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 63°46.543', 19°40.639' (63,7757, 19,6773)
+Hæð yfir sjó: 870.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Tjörnes - Gerðibrekka
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34700
+WMO-númer: 4837
+Skammstöfun: tjnes
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 66°08.921', 16°58.514' (66,1487, 16,9752)
+Hæð yfir sjó: 93.0 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Torfur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3371
+WMO-númer: 4961
+Skammstöfun: torfr
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°30.058', 18°09.696' (65,501, 18,1616)
+Hæð yfir sjó: 25.790000915527344 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Upptyppingar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4019
+WMO-númer: 4177
+Skammstöfun: uppty
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 65°03.639', 16°12.624' (65,0607, 16,2104)
+Hæð yfir sjó: 563.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Vaðlaheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3474
+WMO-númer: 4163
+Skammstöfun: vadla
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°44.911', 18°00.066' (65,7485, 18,0011)
+Hæð yfir sjó: 580.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Vatnaleið
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31948
+WMO-númer: 4810
+Skammstöfun: vatna
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°54.571', 22°51.895' (64,9095, 22,8649)
+Hæð yfir sjó: 226.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Vatnsfell
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6546
+WMO-númer: 4950
+Skammstöfun: vfell
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°11.735', 19°02.800' (64,1956, 19,0467)
+Hæð yfir sjó: 539.5 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Vatnsskarð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33431
+WMO-númer: 4853
+Skammstöfun: vtnsk
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°30.510', 19°41.670' (65,5085, 19,6945)
+Hæð yfir sjó: 420.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Vatnsskarð eystra
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34382
+WMO-númer: 4895
+Skammstöfun: vtney
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°33.740', 13°59.384' (65,5623, 13,9897)
+Hæð yfir sjó: 430.0 m.y.s.
+Upphaf veðurathuguna: 1999
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Vatnsskarðshólar
+Tegund: Mönnuð skeytastöð
+Stöðvanúmer: 802
+WMO-númer: 4058
+Skammstöfun: vtns
+Spásvæði: Suðurland(su)
+Staðsetning: 63°25.416', 19°10.982' (63,4236, 19,183)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 1978
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Vatnsskarðshólar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6045
+WMO-númer: 4164
+Skammstöfun: vskho
+Spásvæði: Suðurland(su)
+Staðsetning: 63°25.416', 19°10.982' (63,4236, 19,183)
+Hæð yfir sjó: 20.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Vattarnes
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5988
+WMO-númer: 4188
+Skammstöfun: vatta
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°56.221', 13°41.076' (64,937, 13,6846)
+Hæð yfir sjó: 5.0 m.y.s.
+Upphaf veðurathuguna: 2000
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Veiðivatnahraun
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6657
+WMO-númer: 4162
+Skammstöfun: veivh
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°23.706', 18°30.286' (64,3951, 18,5048)
+Hæð yfir sjó: 647.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Vestmannaeyjabær
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6015
+WMO-númer: 4146
+Skammstöfun: vestb
+Spásvæði: Suðurland(su)
+Staðsetning: 63°26.152', 20°16.547' (63,4359, 20,2758)
+Hæð yfir sjó: 40.400001525878906 m.y.s.
+Upphaf veðurathuguna: 2002
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Végeirsstaðir í Fnjóskadal
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 3477
+WMO-númer: 4141
+Skammstöfun: vegei
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°49.018', 17°53.142' (65,817, 17,8857)
+Hæð yfir sjó: 120.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Víkurskarð
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33576
+WMO-númer: 4865
+Skammstöfun: viksk
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°48.78', 17°59.46' (65,813, 17,991)
+Hæð yfir sjó: 325.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Vopnafjarðarheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 34348
+WMO-númer: 4879
+Skammstöfun: vopfh
+Spásvæði: Austurland að Glettingi(ag)
+Staðsetning: 65°35.679', 15°18.947' (65,5947, 15,3158)
+Hæð yfir sjó: 440.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Þeistareykir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 4500
+WMO-númer: 4967
+Skammstöfun: teist
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°54.662', 16°58.574' (65,911, 16,9762)
+Hæð yfir sjó: 311.0 m.y.s.
+Upphaf veðurathuguna: 2005
+Eigandi stöðvar: Landsnet
+
+Nafn: Þingvellir
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1596
+WMO-númer: 4142
+Skammstöfun: tingv
+Spásvæði: Suðurland(su)
+Staðsetning: 64°16.842', 21°05.252' (64,2807, 21,0875)
+Hæð yfir sjó: 110.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Þjórsárbrú
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 36308
+WMO-númer: 4940
+Skammstöfun: tjors
+Spásvæði: Suðurland(su)
+Staðsetning: 63°55.837', 20°39.918' (63,9306, 20,6653)
+Hæð yfir sjó: 49.0 m.y.s.
+Upphaf veðurathuguna: 2004
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Þórdalsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 5969
+WMO-númer: 4979
+Skammstöfun: tordh
+Spásvæði: Austfirðir(af)
+Staðsetning: 65°00.055', 14°27.749' (65,0009, 14,4625)
+Hæð yfir sjó: 500.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Landsnet
+
+Nafn: Þrengsli
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 31387
+WMO-númer: 4858
+Skammstöfun: treng
+Spásvæði: Suðurland(su)
+Staðsetning: 63°59.254', 21°27.797' (63,9876, 21,4633)
+Hæð yfir sjó: 260.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Þröskuldar
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32377
+WMO-númer: 4916
+Skammstöfun: thros
+Spásvæði: Breiðafjörður(br)
+Staðsetning: 65°33.145', 21°49.981' (65,5524, 21,833)
+Hæð yfir sjó: 370.0 m.y.s.
+Upphaf veðurathuguna: 2009
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Þúfuver
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6760
+WMO-númer: 4160
+Skammstöfun: tuver
+Spásvæði: Miðhálendið(mi)
+Staðsetning: 64°34.509', 18°36.051' (64,5751, 18,6008)
+Hæð yfir sjó: 613.0 m.y.s.
+Upphaf veðurathuguna: 1993
+Eigandi stöðvar: Landsvirkjun
+
+Nafn: Þverárfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33424
+WMO-númer: 4841
+Skammstöfun: tvera
+Spásvæði: Strandir og Norðurland vestra(nv)
+Staðsetning: 65°46.803', 20°01.113' (65,7801, 20,0186)
+Hæð yfir sjó: 330.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Þverfellshorn á Esju
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 10002
+WMO-númer: -99
+Skammstöfun: thvfh
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°13.968', 21°42.701' (64,2328, 21,7117)
+Hæð yfir sjó: 780.0 m.y.s.
+Upphaf veðurathuguna: 2014
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Þverfjall
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2636
+WMO-númer: 4109
+Skammstöfun: tverf
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°02.666', 23°18.447' (66,0444, 23,3074)
+Hæð yfir sjó: 753.0 m.y.s.
+Upphaf veðurathuguna: 1990
+Eigandi stöðvar: Veðurstofa Íslands - Ofanflóð
+
+Nafn: Þykkvibær
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6208
+WMO-númer: 4144
+Skammstöfun: opart
+Spásvæði: Suðurland(su)
+Staðsetning: 63°44.865', 20°37.089' (63,7477, 20,6182)
+Hæð yfir sjó: 10.0 m.y.s.
+Upphaf veðurathuguna: 1996
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Þyrill
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1685
+WMO-númer: 4806
+Skammstöfun: tyril
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°23.264', 21°25.013' (64,3877, 21,4169)
+Hæð yfir sjó: 53.0 m.y.s.
+Upphaf veðurathuguna: 2003
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Æðey
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 2655
+WMO-númer: 4017
+Skammstöfun: aedey
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°06.039', 22°39.562' (66,1006, 22,6594)
+Hæð yfir sjó: 21.0 m.y.s.
+Upphaf veðurathuguna: 2012
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Ögur
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 32654
+WMO-númer: 4813
+Skammstöfun: oguri
+Spásvæði: Vestfirðir(ve)
+Staðsetning: 66°02.693', 22°40.902' (66,0449, 22,6817)
+Hæð yfir sjó: 40.0 m.y.s.
+Upphaf veðurathuguna: 1997
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Ölkelduháls
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 1493
+WMO-númer: 4864
+Skammstöfun: olkel
+Spásvæði: Faxaflói(fa)
+Staðsetning: 64°03.317', 21°15.190' (64,0553, 21,2532)
+Hæð yfir sjó: 360.0 m.y.s.
+Upphaf veðurathuguna: 2001
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Önundarhorn
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 6134
+WMO-númer: 4938
+Skammstöfun: onund
+Spásvæði: Suðurland(su)
+Staðsetning: 63°31.450', 19°38.140' (63,5242, 19,6357)
+Hæð yfir sjó: 12.0 m.y.s.
+Upphaf veðurathuguna: 2010
+Eigandi stöðvar: Veðurstofa Íslands
+
+Nafn: Öræfi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35305
+WMO-númer: 4878
+Skammstöfun: orafi
+Spásvæði: Suðausturland(sa)
+Staðsetning: 63°56.321', 16°47.751' (63,9387, 16,7959)
+Hæð yfir sjó: 75.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Öxi
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 35963
+WMO-númer: 4976
+Skammstöfun: oxixx
+Spásvæði: Austfirðir(af)
+Staðsetning: 64°49.544', 14°39.439' (64,8257, 14,6573)
+Hæð yfir sjó: 531.0 m.y.s.
+Upphaf veðurathuguna: 2006
+Eigandi stöðvar: Vegagerðin
+
+Nafn: Öxnadalsheiði
+Tegund: Sjálfvirk veðurathugunarstöð
+Stöðvanúmer: 33357
+WMO-númer: 4859
+Skammstöfun: oxnad
+Spásvæði: Norðurland eystra(na)
+Staðsetning: 65°28.057', 18°41.923' (65,4676, 18,6987)
+Hæð yfir sjó: 540.0 m.y.s.
+Upphaf veðurathuguna: 1995
+Eigandi stöðvar: Vegagerðin

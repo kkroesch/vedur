@@ -3,19 +3,36 @@
 require "vendor/autoload.php";
 use PHPHtmlParser\Dom;
 
+// Collect station URLs
 $dom = new Dom;
 $dom->loadFromUrl('http://www.vedur.is/vedur/stodvar');
 $html = $dom->outerHtml;
 
 $links = $dom->find('a');
 
-$count = 0;
+$station_urls = array();
 foreach ($links as $link) {
     if ($link->innerHtml == 'Uppl.') {
-        print $link->getAttribute('href') . "\n";
-        $count ++;
+        $station_urls[] = $link->getAttribute('href');
     }
 }
 
-echo "\n\nTotal: " . $count;
+foreach ($station_urls as $url) {
+    $dom = new Dom;
+    $dom->loadFromUrl('http://www.vedur.is' . $url);
+    $html = $dom->outerHtml;
 
+    $tds = $dom->find("td");
+
+    $odd = true;
+    foreach ($tds as $td) {
+        $value = $td->innerHtml;
+        if ($value == 'Nafn')
+            print "\n";
+        if ($odd)
+            print $value . ': ';
+        else
+            print $value . "\n";
+        $odd = ! $odd;
+    }
+}
