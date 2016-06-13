@@ -5,6 +5,38 @@ import csv
 
 coord_regex = re.compile('\((?P<lat>[0-9,]+), (?P<lng>[0-9,]+)\)')
 
+""" Character substitution for Icelandic letters """
+convert = {
+    'Á'.decode('utf8'): 'A',
+    'Å'.decode('utf8'): 'A',
+    'Æ'.decode('utf8'): 'AE',
+    'Ó'.decode('utf8'): 'O',
+    'Ö'.decode('utf8'): 'O',
+    'Ø'.decode('utf8'): 'O',
+    'Ý'.decode('utf8'): 'Y',
+    'Þ'.decode('utf8'): 'p',
+    'á'.decode('utf8'): 'a',
+    'ã'.decode('utf8'): 'a',
+    'ä'.decode('utf8'): 'a',
+    'å'.decode('utf8'): 'a',
+    'æ'.decode('utf8'): 'ae',
+    'è'.decode('utf8'): 'e',
+    'é'.decode('utf8'): 'e',
+    'ë'.decode('utf8'): 'e',
+    'í'.decode('utf8'): 'i',
+    'ð'.decode('utf8'): 'd',
+    'ó'.decode('utf8'): 'o',
+    'ö'.decode('utf8'): 'o',
+    'ø'.decode('utf8'): 'o',
+    'ú'.decode('utf8'): 'u',
+    'ü'.decode('utf8'): 'u'
+}
+
+
+def to_latin_char(text):
+    return ''.join(map(lambda c: convert[c] if c in convert.keys() else c, text))
+
+
 f = open('stations.txt', 'r')
 
 stations = []
@@ -16,14 +48,15 @@ for line in f:
     if line.startswith('WMO'):
         station['wmo'] = int(line.split(':')[1])
     if line.startswith('Skammstöfun'):
-        station['short'] = line.split(':')[1].strip()
+        station['latin'] = to_latin_char(line.split(':')[1].strip())
     if line.startswith('Nafn'):
         station['name'] = line.split(':')[1].strip()
+    if line.startswith('Hæð'):
+        station['elevation'] = int(line.split(':')[1])
     if line.startswith('Staðsetning'):
         m = coord_regex.findall(line)
-        station['lat'] = m[0][0]
-        station['lng'] = m[0][1]
-
+        station['lat'] = m[0][0].replace(',', '.')
+        station['lng'] = m[0][1].replace(',', '.')
     if line.strip() == '':
         stations.append(station)
         station = {}
@@ -33,7 +66,7 @@ f.close()
 id = 4000
 
 with open('../stations.csv', 'w') as csvfile:
-    fieldnames = ['id', 'origin', 'wmo', 'short', 'name', 'lat', 'lng']
+    fieldnames = ['wmo', 'origin', 'name', 'latin', 'elevation', 'lat', 'lng']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
 
     writer.writeheader()
