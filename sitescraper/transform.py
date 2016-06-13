@@ -34,7 +34,7 @@ convert = {
 
 
 def to_latin_char(text):
-    return ''.join(map(lambda c: convert[c] if c in convert.keys() else c, text))
+    return ''.join(map(lambda c: convert[c] if c in convert.keys() else c, text.decode('utf8'))).encode('utf8')
 
 
 f = open('stations.txt', 'r')
@@ -43,16 +43,17 @@ stations = []
 station = {}
 
 for line in f:
+    station['eol'] = ''
     if line.startswith('Stöðvanúmer'):
         station['origin'] = int(line.split(':')[1])
     if line.startswith('WMO'):
-        station['wmo'] = int(line.split(':')[1])
-    if line.startswith('Skammstöfun'):
-        station['latin'] = to_latin_char(line.split(':')[1].strip())
+        station['wmo'] = int(line.split(':')[1])*10
+        station['wmo'] = str(station['wmo']).zfill(6)
     if line.startswith('Nafn'):
         station['name'] = line.split(':')[1].strip()
+        station['latin'] = to_latin_char(line.split(':')[1].strip())
     if line.startswith('Hæð'):
-        station['elevation'] = int(line.split(':')[1])
+        station['elevation'] = float(line.split(':')[1].strip().rstrip('m.y.s.'))
     if line.startswith('Staðsetning'):
         m = coord_regex.findall(line)
         station['lat'] = m[0][0].replace(',', '.')
@@ -66,13 +67,9 @@ f.close()
 id = 4000
 
 with open('../stations.csv', 'w') as csvfile:
-    fieldnames = ['wmo', 'origin', 'name', 'latin', 'elevation', 'lat', 'lng']
+    fieldnames = ['wmo', 'origin', 'name', 'latin', 'elevation', 'lat', 'lng', 'eol']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
 
     writer.writeheader()
     for station in stations:
-        id += 1
-        if id % 10 == 0:
-            id += 1
-        station['id'] = id
         writer.writerow(station)
